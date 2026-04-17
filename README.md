@@ -27,3 +27,24 @@ yandex_books_analysis/
 ├── notebooks/
 │ └── hypothesis_testing.ipynb # Full analysis with code & visualizations
 └── README.md
+
+## 📈 Key Findings
+| Metric               | Moscow | St. Petersburg |
+|----------------------|--------|----------------|
+| Avg. activity (hrs)  | 10.88  | 11.26          |
+| Median activity (hrs)| 0.92   | 0.88           |
+| Sample size          | 6,234  | 2,306          |
+| **p-value (Welch)**  | —      | **0.344**      |
+
+➡️ **Conclusion**:  
+The observed +0.38 hr difference is **not statistically significant** (α = 0.05), though the direction aligns with the hypothesis. Power analysis revealed low test power (≈6.3%), suggesting a larger sample or effect size is needed.
+
+## 💡 Business Implications
+- The null hypothesis **cannot be rejected** — no evidence that SPb users are more active.
+- However, the positive trend (+3.5%) warrants further investigation (e.g., segmentation by device, age, or reading frequency).
+- This analysis informed how to design future experiments: prioritize **power**, **effect size estimation**, and **guardrail metrics**.
+
+---
+
+*Prepared by Ivan Solovev | 01 Sep 2025*  
+*Product Analyst | Data-driven growth strategy*
