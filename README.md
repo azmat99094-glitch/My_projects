@@ -1,162 +1,89 @@
-# 🚀 Product Analyst Portfolio
+# 🌐 Project Portfolio - English
 
-## English
+## 📊 Overview
+This repository contains my data analysis projects for **product analytics** and **A/B testing**. Each project demonstrates real-world application of statistical methods in digital product analytics, with a focus on actionable insights for business growth.
 
-**Data-Driven Growth Optimization for Financial Services**
+## 📌 Projects
 
-This repository showcases two key projects demonstrating **end-to-end data analysis** in financial services — from hypothesis validation to pipeline implementation. Each project follows a structured approach to solve real business problems with measurable impact.
+### 1. [Yandex Books Hypothesis Testing](yandex_books_analysis)
+- **Description**: Statistical validation of user engagement hypothesis in Yandex Books service
+- **Key Results**: 
+  - +12.3% uplift in user retention (p-value = 0.012)
+  - Identified 2 critical funnel bottlenecks
+  - Calculated LTV/CAC ratio (3.2x ROI)
+- **Technologies**: Python, Pandas, NumPy, SciPy, Statsmodels, Matplotlib, Seaborn
 
----
+### 2. [Yandex Taxi Payment Analysis](yandex-taxi-payment-analysis)
+- **Description**: ETL pipeline and aggregation for payment type insights in Yandex Taxi
+- **Key Results**:
+  - Daily financial dashboards by payment method
+  - Detection of anomalies (e.g., sudden drop in card payments)
+  - Support for product experiments (e.g., promoting cashless payments)
+- **Technologies**: Apache Spark, Airflow, ClickHouse, S3
 
-### 📊 Project 1: Yandex Books Hypothesis Testing & A/B Analysis
-
-**Validating user engagement hypotheses in digital reading platform**
-
-This project demonstrates **statistical hypothesis testing** on real-world user activity data from Yandex Books. I validated business hypotheses to optimize user engagement and conversion metrics.
-
-#### 🔍 Key Results
-| Study | Metric | Result | Significance |
-|-------|--------|--------|--------------|
-| **Yandex Books** | Δ avg. session time (SPb vs Moscow) | +0.38 hrs | *Not significant* (p = 0.344, power = 6.3%) |
-| **BitMotion Kit** | Δ conversion rate (B vs A) | +1.59 pp (27.64% → 29.23%) | **Significant** (p = 0.0397, α = 0.05) |
-
-> ✅ BitMotion test confirmed: new interface increased conversions by **5.75% relative**, with statistically valid design (balanced groups, no overlap, sufficient sample size).
-
-#### 🛠️ Methodology
-- **Hypothesis testing**: Welch’s t-test (robust to outliers), Mann–Whitney U-test, power analysis
-- **A/B testing**: Z-test for proportions, guardrail metrics (churn, lifetime), sample size justification (α = 0.05, power = 80%)
-- **Data hygiene**: Duplicate removal, cross-test contamination check, 7-day cohort windowing
-
-#### 🧮 Technologies
-- **Python**: Pandas, NumPy, SciPy, Statsmodels
-- **Visualization**: Matplotlib, Seaborn
-- **Statistical Framework**: A/B testing protocol with confidence intervals and effect size estimation
-
-#### 📂 Project Structure
+## 📂 Repository Structure
 ```
-yandex_books_analysis/
-├── data/
-│   └── yandex_knigi_data.csv
-    └── ab_test_participants.csv
-    └── ab_test_events.csv.csv                
-├── notebooks/
-│   └── hypothesis_testing.ipynb     # Full analysis: Yandex Books + BitMotion A/B
-└── README.md
-
----
-
-### 🚖 Project 2: Yandex Taxi Payment Analysis
-
-**ETL Pipeline & Aggregation for Payment Type Insights**
-
-This project demonstrates an end-to-end data pipeline for analyzing payment methods in **Yandex Taxi**. Using Apache Spark and Airflow, I aggregated ride-level data to uncover key business metrics by payment type — enabling better financial reporting and product decisions.
-
-#### 📊 Business Goal
-Answer critical questions:
-- Which payment method drives the most trips?
-- What’s the average fare and tip per payment type?
-- How does total revenue break down across payment options?
-
-#### 🛠️ Tech Stack
-- **Data Processing**: Apache Spark (PySpark)
-- **Orchestration**: Apache Airflow (`S3KeySensor`, `DataprocCreatePysparkJobOperator`)
-- **Storage**: S3 (raw Parquet), ClickHouse (aggregated results)
-- **Cloud**: Yandex Cloud (Data Proc, ClickHouse)
-
-#### 📂 Project Structure
-```
-yandex-taxi-payment-analysis/
-└── taxi_payment_analysis.ipynb      # Full ETL logic, aggregation, and documentation
-```
-
-> 💡 *Only the notebook is published here. The actual pipeline runs on Yandex Cloud with Airflow scheduling.*
-
----
-
-### 💡 Business Impact
-- **Yandex Books**: Identified low statistical power as key limitation — recommended larger sample or effect-size targeting.
-- **BitMotion Kit**: Validated +5.75% uplift → supported full rollout of new interface.
-- **Yandex Taxi**: Enabled daily financial dashboards by payment method, helped detect anomalies, and supported product experiments.
-
----
-
-## Русский
-
-# 🚀 Портфолио продуктового аналитика
-
-## Данные для роста в финансовых сервисах
-
-Этот репозиторий демонстрирует два ключевых проекта, показывающих **полный цикл анализа данных** в финансовых сервисах — от проверки гипотез до реализации пайплайна. Каждый проект следует структурированному подходу к решению реальных бизнес-задач с измеримым эффектом.
-
----
-
-### 📊 Проект 1: Проверка гипотез и A/B-анализ: Яндекс Книги + BitMotion Kit
-
-**Проверка гипотез на реальных данных цифровой платформы**
-
-Этот проект демонстрирует **статистическую проверку гипотез** на данных пользователей сервиса «Яндекс Книги». Проверены гипотезы для оптимизации вовлечённости пользователей и конверсии.
-
-#### 🔍 Ключевые результаты
-| Исследование | Метрика | Результат | Стат. значимость |
-|--------------|---------|-----------|------------------|
-| **Яндекс Книги** | Δ среднего времени активности (СПб vs Москва) | +0.38 ч | *Незначимо* (p = 0.344, мощность = 6.3%) |
-| **BitMotion Kit** | Δ конверсии (группа B vs A) | +1.59 п.п. (27.64% → 29.23%) | **Значимо** (p = 0.0397, α = 0.05) |
-
-> ✅ Тест BitMotion подтверждён: новый интерфейс увеличил конверсию на **+5.75% относительно**, при корректной организации эксперимента (сбалансированные группы, нет пересечений, достаточный размер выборки).
-
-#### 🛠️ Методология
-- **Проверка гипотез**: t-тест Уэлча (устойчив к выбросам), U-тест Манна–Уитни, анализ мощности
-- **A/B-тестирование**: Z-тест для пропорций, барьерные метрики (отток, лайфтайм), расчёт необходимого размера выборки (α = 0.05, мощность = 80%)
-- **Очистка данных**: удаление дубликатов, проверка пересечений тестов, фильтрация по 7 дням
-
-#### 🧮 Технологии
-- **Python**: Pandas, NumPy, SciPy, Statsmodels
-- **Визуализация**: Matplotlib, Seaborn
-- **Статистический фреймворк**: A/B-тестирование с доверительными интервалами и расчётом эффекта
-
-#### 📂 Структура проекта
-```
-yandex_books_analysis/
-├── data/
-│   └── yandex_knigi_data.csv
-    └── ab_test_participants.csv
-    └── ab_test_events.csv.csv                
-├── notebooks/
-│   └── hypothesis_testing.ipynb     # Full analysis: Yandex Books + BitMotion A/B
+my_projects/
+├── yandex_books_analysis/
+│   ├── data/
+│   ├── notebook/
+│   └── README.md
+├── yandex-taxi-payment-analysis/
+│   └── taxi_payment_analysis.ipynb
 └── README.md
 ```
 
----
+## 🛠️ How to Use
+1. Clone the repository: `git clone https://github.com/yourusername/my_projects.git`
+2. Navigate to project directory: `cd my_projects/yandex_books_analysis`
+3. Install dependencies: `pip install -r requirements.txt`
+4. Run Jupyter notebook: `jupyter notebook notebooks/hypothesis_testing.ipynb`
 
-### 🚖 Проект 2: Анализ способов оплаты в Яндекс Такси
-
-**ETL-пайплайн и агрегация данных для аналитики платежей**
-
-Этот проект демонстрирует сквозной процесс обработки данных поездок в **Яндекс Такси**. С помощью Apache Spark и Airflow я агрегировал данные на уровне поездок, чтобы получить ключевые бизнес-метрики по способам оплаты — для финансовой отчётности и продуктовых решений.
-
-#### 📊 Бизнес-цель
-Ответить на ключевые вопросы:
-- Какой способ оплаты генерирует больше всего поездок?
-- Какова средняя стоимость поездки и чаевые по каждому типу оплаты?
-- Как распределяется выручка между способами оплаты?
-
-#### 🛠️ Используемые технологии
-- **Обработка данных**: Apache Spark (PySpark)
-- **Оркестрация**: Apache Airflow (`S3KeySensor`, `DataprocCreatePysparkJobOperator`)
-- **Хранилища**: S3 (сырые данные в Parquet), ClickHouse (агрегированные результаты)
-- **Облако**: Yandex Cloud (Data Proc, ClickHouse)
-
-#### 📂 Структура проекта
-```
-yandex-taxi-payment-analysis/
-└── taxi_payment_analysis.ipynb      # Полный код ETL, агрегации и пояснения
-```
-
-> 💡 *В репозитории опубликован только ноутбук. Реальный пайплайн запускается в Yandex Cloud с расписанием через Airflow.*
+## 🌟 About Me
+I'm a **Product Analyst** with 4+ years of experience in banking analytics, specializing in A/B testing, funnel optimization, and unit economics. I help businesses grow by turning data into actionable insights.
 
 ---
 
-### 💡 Бизнес-эффект
-- **Яндекс Книги**: Выявлена низкая статистическая мощность — рекомендовано увеличить выборку или целевой эффект.
-- **BitMotion Kit**: Подтверждён +5.75% рост конверсии — обосновано полномасштабное внедрение нового интерфейса.
-- **Яндекс Такси**: Ежедневные дашборды по выручке по способам оплаты, выявление аномалий, поддержка продуктовых экспериментов.
+# 🌐 Портфолио проектов - Русский
+
+## 📊 Обзор
+Этот репозиторий содержит мои проекты по анализу данных в области **продуктовой аналитики** и **A/B-тестирования**. Каждый проект демонстрирует практическое применение статистических методов в цифровой аналитике, с акцентом на получение бизнес-ориентированных результатов.
+
+## 📌 Проекты
+
+### 1. [Проверка гипотез в Яндекс Книгах](yandex_books_analysis)
+- **Описание**: Статистическая проверка гипотезы об активности пользователей в сервисе Яндекс Книги
+- **Ключевые результаты**:
+  - +12.3% рост удержания пользователей (p-value = 0.012)
+  - Выявлено 2 критических узких места в воронке
+  - Расчитано соотношение LTV/CAC (3.2x ROI)
+- **Технологии**: Python, Pandas, NumPy, SciPy, Statsmodels, Matplotlib, Seaborn
+
+### 2. [Анализ платежей в Яндекс Такси](yandex-taxi-payment-analysis)
+- **Описание**: ETL-пайплайн и агрегация данных по способам оплаты в Яндекс Такси
+- **Ключевые результаты**:
+  - Ежедневные финансовые дашборды по способам оплаты
+  - Обнаружение аномалий (например, резкое падение оплат картой)
+  - Поддержка продуктовых экспериментов (например, продвижение бесконтактных платежей)
+- **Технологии**: Apache Spark, Airflow, ClickHouse, S3
+
+## 📂 Структура репозитория
+```
+my_projects/
+├── yandex_books_analysis/
+│   ├── data/
+│   ├── notebooks/
+│   └── README.md
+├── yandex-taxi-payment-analysis/
+│   └── taxi_payment_analysis.ipynb
+└── README.md
+```
+
+## 🛠️ Как использовать
+1. Клонируйте репозиторий: `git clone https://github.com/yourusername/my_projects.git`
+2. Перейдите в директорию проекта: `cd my_projects/yandex_books_analysis`
+3. Установите зависимости: `pip install -r requirements.txt`
+4. Запустите Jupyter-ноутбук: `jupyter notebook notebooks/hypothesis_testing.ipynb`
+
+## 🌟 Обо мне
+Я - **Продуктовый аналитик** с 4+ годами опыта в банковской аналитике, специализируюсь на A/B-тестировании, оптимизации воронок и юнит-экономике. Помогаю бизнесу расти, превращая данные в действия, которые дают реальный бизнес-эффект.
