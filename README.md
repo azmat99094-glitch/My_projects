@@ -25,11 +25,10 @@ This project demonstrates end-to-end statistical validation in digital product a
 ## 📂 Project Structure
 yandex_books_analysis/
 ├── data/
-│ └── yandex_knigi_data.csv # Anonymized dataset (synthetic if needed)
+│ └── raw_data.csv # Anonymized dataset (synthetic if needed)
 ├── notebooks/
 │ └── hypothesis_testing.ipynb # Full analysis: Yandex Books + BitMotion A/B
 └── README.md
-
 
 ## 💡 Business Impact
 - For Yandex Books: Identified low statistical power as key limitation — recommended larger sample or effect-size targeting.
