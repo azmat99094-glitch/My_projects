@@ -25,7 +25,9 @@ This project demonstrates end-to-end statistical validation in digital product a
 ## 📂 Project Structure
 yandex_books_analysis/
 ├── data/
-│ └── raw_data.csv # Anonymized dataset (synthetic if needed)
+│ └── raw_data.csv
+  └── ab_test_participants.csv
+  └── ab_test_events.csv
 ├── notebooks/
 │ └── hypothesis_testing.ipynb # Full analysis: Yandex Books + BitMotion A/B
 └── README.md
