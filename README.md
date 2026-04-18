@@ -23,3 +23,20 @@ This project demonstrates end-to-end statistical validation in digital product a
 - **Statistical Framework**: A/B testing protocol with confidence intervals and effect size estimation
 
 ## 📂 Project Structure
+yandex_books_analysis/
+├── data/
+│ └── yandex_knigi_data.csv
+  └── ab_test_participants.csv 
+  └── ab_test_events.csv 
+├── notebooks/
+│ └── hypothesis_testing.ipynb # Full analysis: Yandex Books + BitMotion A/B
+└── README.md
+
+## 💡 Business Impact
+- For Yandex Books: Identified low statistical power as key limitation — recommended larger sample or effect-size targeting.
+- For BitMotion Kit: Validated +5.75% uplift → supported full rollout of new interface.
+
+---
+
+*Prepared by Ivan Solovev | 01 Sep 2025*  
+*Product Analyst | Data-driven growth strategy*
