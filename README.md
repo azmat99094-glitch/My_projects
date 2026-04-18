@@ -36,5 +36,5 @@ yandex_books_analysis/
 
 ---
 
-*Prepared by Ivan Solovyov | 01 Sep 2025*  
+*Prepared by Ivan Solovev | 01 Sep 2025*  
 *Product Analyst | Data-driven growth strategy*
