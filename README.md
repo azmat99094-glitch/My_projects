@@ -29,7 +29,7 @@ my_projects/
 │   ├── notebook/
 │   └── README.md
 ├── yandex-taxi-payment-analysis/
-│   └── taxi_payment_analysis.ipynb
+│   └── notebook
 └── README.md
 ```
 
@@ -75,7 +75,7 @@ my_projects/
 │   ├── notebook/
 │   └── README.md
 ├── yandex-taxi-payment-analysis/
-│   └── taxi_payment_analysis.ipynb
+│   └── notebook
 └── README.md
 ```
 
