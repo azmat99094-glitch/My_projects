@@ -1,40 +1,25 @@
-# 🚖 Yandex Taxi Payment Analysis
+# 📊 Hypothesis Testing & A/B Analysis: Yandex Books + BitMotion Kit
 
-**ETL Pipeline & Aggregation for Payment Type Insights**
+**Data-Driven Product Analysis for Growth Optimization**
 
-This project demonstrates an end-to-end data pipeline for analyzing payment methods in **Yandex Taxi**. Using Apache Spark and Airflow, I aggregated ride-level data to uncover key business metrics by payment type — enabling better financial reporting and product decisions.
+This project demonstrates end-to-end statistical validation in digital product analytics — from hypothesis testing on real-world user activity data to rigorous A/B test evaluation for conversion optimization.
 
-## 📊 Business Goal
-Answer critical questions:
-- Which payment method drives the most trips?
-- What’s the average fare and tip per payment type?
-- How does total revenue break down across payment options?
+## 🔍 Key Results
+| Study | Metric | Result | Significance |
+|-------|--------|--------|--------------|
+| **Yandex Books** | Δ avg. session time (SPb vs Moscow) | +0.38 hrs | *Not significant* (p = 0.344, power = 6.3%) |
+| **BitMotion Kit** | Δ conversion rate (B vs A) | +1.59 pp (27.64% → 29.23%) | **Significant** (p = 0.0397, α = 0.05) |
 
-## 🛠️ Tech Stack
-- **Data Processing**: Apache Spark (PySpark)
-- **Orchestration**: Apache Airflow (`S3KeySensor`, `DataprocCreatePysparkJobOperator`)
-- **Storage**: S3 (raw Parquet), ClickHouse (aggregated results)
-- **Cloud**: Yandex Cloud (Data Proc, ClickHouse)
+> ✅ BitMotion test confirmed: new interface increased conversions by **5.75% relative**, with statistically valid design (balanced groups, no overlap, sufficient sample size).
+
+## 🛠️ Methodology
+- **Hypothesis testing**: Welch’s t-test (robust to outliers), Mann–Whitney U-test, power analysis
+- **A/B testing**: Z-test for proportions, guardrail metrics (churn, lifetime), sample size justification (α = 0.05, power = 80%)
+- **Data hygiene**: Duplicate removal, cross-test contamination check, 7-day cohort windowing
+
+## 🧮 Technologies
+- **Python**: Pandas, NumPy, SciPy, Statsmodels
+- **Visualization**: Matplotlib, Seaborn
+- **Statistical Framework**: A/B testing protocol with confidence intervals and effect size estimation
 
 ## 📂 Project Structure
-yandex-taxi-payment-analysis/
-└── taxi_payment_analysis.ipynb # Full ETL logic, aggregation, and documentation
-
-> 💡 *Only the notebook is published here. The actual pipeline runs on Yandex Cloud with Airflow scheduling.*
-
-## 🔍 Key Aggregations
-For each `payment_type`, the pipeline computes:
-- `trip_count` — total number of rides  
-- `avg_fare` — average ride cost  
-- `avg_tips` — average tip amount  
-- `total_revenue` — sum of all payments (fare + tips + fees)
-
-## 💡 Business Impact
-- Enables daily financial dashboards by payment method,
-- Helps detect anomalies (e.g., sudden drop in card payments),
-- Supports product experiments (e.g., promoting cashless payments).
-
----
-
-*Prepared by Ivan Solovev | March 2026*  
-*Product Analyst | Data-driven decision making*
