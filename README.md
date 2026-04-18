@@ -72,7 +72,7 @@ I'm a **Product Analyst** with 4+ years of experience in banking analytics, spec
 my_projects/
 ├── yandex_books_analysis/
 │   ├── data/
-│   ├── notebooks/
+│   ├── notebook/
 │   └── README.md
 ├── yandex-taxi-payment-analysis/
 │   └── taxi_payment_analysis.ipynb
