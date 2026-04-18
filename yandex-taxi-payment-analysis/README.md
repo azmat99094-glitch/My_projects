@@ -1,0 +1,40 @@
+# 🚖 Yandex Taxi Payment Analysis
+
+**ETL Pipeline & Aggregation for Payment Type Insights**
+
+This project demonstrates an end-to-end data pipeline for analyzing payment methods in **Yandex Taxi**. Using Apache Spark and Airflow, I aggregated ride-level data to uncover key business metrics by payment type — enabling better financial reporting and product decisions.
+
+## 📊 Business Goal
+Answer critical questions:
+- Which payment method drives the most trips?
+- What’s the average fare and tip per payment type?
+- How does total revenue break down across payment options?
+
+## 🛠️ Tech Stack
+- **Data Processing**: Apache Spark (PySpark)
+- **Orchestration**: Apache Airflow (`S3KeySensor`, `DataprocCreatePysparkJobOperator`)
+- **Storage**: S3 (raw Parquet), ClickHouse (aggregated results)
+- **Cloud**: Yandex Cloud (Data Proc, ClickHouse)
+
+## 📂 Project Structure
+yandex-taxi-payment-analysis/
+└── taxi_payment_analysis.ipynb # Full ETL logic, aggregation, and documentation
+
+> 💡 *Only the notebook is published here. The actual pipeline runs on Yandex Cloud with Airflow scheduling.*
+
+## 🔍 Key Aggregations
+For each `payment_type`, the pipeline computes:
+- `trip_count` — total number of rides  
+- `avg_fare` — average ride cost  
+- `avg_tips` — average tip amount  
+- `total_revenue` — sum of all payments (fare + tips + fees)
+
+## 💡 Business Impact
+- Enables daily financial dashboards by payment method,
+- Helps detect anomalies (e.g., sudden drop in card payments),
+- Supports product experiments (e.g., promoting cashless payments).
+
+---
+
+*Prepared by Ivan Solovev | March 2026*  
+*Product Analyst | Data-driven decision making*
