@@ -25,9 +25,11 @@
 ## 📂 Структура проекта
 yandex_books_analysis/
 ├── data/
-│ └── raw_data.csv # Анонимизированные данные (синтетические при необходимости)
+│ └── raw_data.csv
+  └── ab_test_participants.csv
+  └── ab_test_events.csv
 ├── notebooks/
-│ └── hypothesis_testing.ipynb # Полный анализ: Яндекс Книги + A/B BitMotion
+│ └── hypothesis_testing.ipynb # Full analysis: Yandex Books + BitMotion A/B
 └── README.md
 
 ## 💡 Бизнес-эффект
