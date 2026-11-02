@@ -16,12 +16,14 @@ This project demonstrates a full-cycle data analysis pipeline for an e-commerce 
 - **Concepts**: EDA, Data Quality Checks, API Rate Limiting, Automated Reporting
 
 ## 📂 Project Structure
+```
 ecommerce-api-analytics/
 ├── purchases.csv # Transactional data (6k+ rows)
 ├── products.csv # Product catalog data (20k+ rows)
 ├── Part_1_Data_Analysis.ipynb # EDA, visualization, SQL queries via DuckDB
 ├── Part_2_API_Report.ipynb # Yandex.Metrica API integration & report generation
 └── README.md
+```
 
 ## 🚀 How to Run
 1. Clone repository and navigate to folder: `cd ecommerce-api-analytics`
@@ -56,13 +58,14 @@ ecommerce-api-analytics/
 - **Концепции**: EDA, проверки качества данных, лимиты API, автоматическая отчетность
 
 ## 📂 Структура проекта
+```
 ecommerce-api-analytics/
 ├── purchases.csv # Транзакционные данные (6k+ строк)
 ├── products.csv # Каталог товаров (20k+ строк)
 ├── Часть_1_Анализ_данных.ipynb # EDA, визуализация, SQL через DuckDB
 ├── Часть_2_API_Отчетность.ipynb # Интеграция с API и генерация отчетов
 └── README.md
-
+```
 ## 🚀 Как запустить
 1. Клонируйте репозиторий и перейдите в папку: `cd ecommerce-api-analytics`
 2. Установите зависимости: `pip install pandas matplotlib requests openpyxl duckdb`
