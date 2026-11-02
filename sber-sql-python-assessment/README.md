@@ -39,14 +39,14 @@ Automated processing of raw web analytics logs:
 - **Concepts:** Business Intelligence, Data Segmentation, Executive Reporting, ETL Pipelines, Data Quality, Market Hypothesis Testing
 
 ## 📂 Project Structure
-'''
+```
 sber-sql-python-assessment/
 ├── Sber_SQL_Python_Assessment.ipynb # Unified notebook with all tasks and visualizations
 ├── data_for_test.txt # Raw source data for Python ETL tasks
 ├── Тест_Python.docx # Original Python task specifications
 ├── Тест_SQL_логика_2510.docx # Original SQL task specifications
 └── README.md
-'''
+```
 
 ## 💡 Key Business Insights
 - **Portfolio Imbalance:** 72% of clients fall into "Low" and "Medium" salary segments but generate disproportionate portfolio value in "High" and "Premium" tiers.
@@ -100,14 +100,14 @@ Successfully completed all technical tasks and defended the analytical findings 
 - **Концепции:** Бизнес-аналитика, сегментация данных, управленческая отчетность, ETL-пайплайны, контроль качества данных, проверка рыночных гипотез
 
 ## 📂 Структура проекта
-'''
+```
 sber-sql-python-assessment/
 ├── Sber_SQL_Python_Assessment.ipynb # Единый ноутбук со всеми заданиями и визуализациями
 ├── data_for_test.txt # Исходные данные для Python ETL-задач
 ├── Тест_Python.docx # Оригинальные спецификации Python-заданий
 ├── Тест_SQL_логика_2510.docx # Оригинальные спецификации SQL-заданий
 └── README.md
-'''
+```
 
 ## 💡 Ключевые бизнес-инсайты
 - **Дисбаланс портфеля:** 72% клиентов находятся в сегментах «Низкая» и «Средняя» зарплата, но формируют непропорционально малую долю портфеля по сравнению с сегментами «Высокая» и «Premium».
