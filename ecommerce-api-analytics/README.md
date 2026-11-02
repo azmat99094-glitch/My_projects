@@ -10,7 +10,7 @@ This project demonstrates a full-cycle data analysis pipeline for an e-commerce 
 4. **Business Recommendations**: Proposed RFM segmentation, funnel depth analysis by source, and automated alerting systems for bounce rates and data gaps.
 
 ## 🛠️ Technologies & Tools
-- **Languages**: Python 3.x, SQL (DuckDB)
+- **Languages**: Python 3.11, SQL (DuckDB)
 - **Libraries**: Pandas, Matplotlib, Requests, OpenPyXL
 - **APIs**: Yandex.Metrica Logs API
 - **Concepts**: EDA, Data Quality Checks, API Rate Limiting, Automated Reporting
@@ -52,7 +52,7 @@ ecommerce-api-analytics/
 4. **Бизнес-рекомендации**: Предложены RFM-сегментация, анализ глубины воронки по источникам и система алертинга для отказов и пропусков данных.
 
 ## 🛠️ Технологии и инструменты
-- **Языки**: Python 3.x, SQL (DuckDB)
+- **Языки**: Python 3.11, SQL (DuckDB)
 - **Библиотеки**: Pandas, Matplotlib, Requests, OpenPyXL
 - **API**: Яндекс.Метрика Logs API
 - **Концепции**: EDA, проверки качества данных, лимиты API, автоматическая отчетность
