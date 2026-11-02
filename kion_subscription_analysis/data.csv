@@ -1,0 +1,436 @@
+"num_month_tb";"num_month_sale";"product_name";"product_category";"is_sale";"sum_sales";"sum_active_1m";"sum_paying_1m";"sum_wtch_1m"
+9;7;KION 05.22 (3 мес);Standalone;0;0;140752;140752;92411
+6;3;KION 3.0. pc;Standalone;0;0;8557;8292;3747
+11;11;KION + Premium (6 мес);Standalone;1;4597;4597;4428;3142
+13;3;KION 09.21;Standalone;0;0;7966;7966;3231
+5;5;KION + Premium (6 мес);Standalone;1;676;676;559;650
+11;4;KION 09.21;Standalone;0;0;11424;10815;4412
+13;9;KION 05.22 (3 мес);Standalone;0;0;7;7;5
+12;10;KION + Premium (6 мес);Standalone;0;0;882;462;654
+6;5;KION + Premium (6 мес);Standalone;0;0;674;557;571
+9;8;KION 09.21;Standalone;0;0;153985;127037;70928
+10;9;KION + Premium (6 мес);Standalone;0;0;724;570;567
+4;3;KION 05.22 (3 мес);Standalone;0;0;2027;1940;1747
+10;10;KION 3.0. pc;Standalone;1;5541;5541;286;4163
+13;10;KION + Premium (6 мес);Standalone;0;0;876;455;626
+2;2;KION 09.21;Standalone;1;144451;144451;82004;125902
+4;4;KION 09.21;Standalone;1;132220;132220;69841;105737
+5;1;KION 3.0. pc;Standalone;0;0;3376;3294;1644
+5;3;KION 3.0. pc;Standalone;0;0;26646;10851;11018
+1;1;KION 3.0. pc;Standalone;1;20707;20707;245;17458
+12;6;KION + Premium (6 мес);Standalone;0;0;891;761;591
+3;0;KION 05.22 (3 мес);Standalone;0;0;455;455;305
+12;3;KION + Premium (6 мес);Standalone;0;0;238;238;164
+10;3;KION 09.21;Standalone;0;0;10993;10993;3943
+10;4;KION 09.21;Standalone;0;0;13024;12416;5068
+8;7;KION 09.21;Standalone;0;0;129704;91830;77338
+9;5;KION + Premium (6 мес);Standalone;0;0;666;549;438
+9;5;KION 09.21;Standalone;0;0;35800;35164;15063
+7;6;KION 05.22 (3 мес);Standalone;0;0;56;4;43
+6;4;KION 05.22 (3 мес);Standalone;0;0;4344;4282;2821
+2;2;KION 3.0. pc;Standalone;1;47359;47359;238;43914
+11;9;KION + Premium (6 мес);Standalone;0;0;719;564;500
+14;10;KION + Premium (6 мес);Standalone;0;0;868;447;594
+11;11;KION 09.21;Standalone;1;2195;2195;553;1974
+1;1;KION 09.21;Standalone;1;108037;108037;73417;96842
+14;5;KION 3.0. pc;Standalone;0;0;3683;3432;1626
+3;1;KION 05.22 (3 мес);Standalone;0;0;946;946;696
+5;2;KION + Premium (6 мес);Standalone;0;0;706;692;534
+13;10;KION 05.22 (3 мес);Standalone;0;0;23;23;11
+14;3;KION 3.0. pc;Standalone;0;0;1920;1666;863
+12;0;KION 3.0. pc;Standalone;0;0;47;45;18
+4;1;KION + Premium (6 мес);Standalone;0;0;502;502;391
+8;7;KION + Premium (6 мес);Standalone;0;0;1880;1766;1602
+12;6;KION 09.21;Standalone;0;0;14803;14682;6036
+10;2;KION + Premium (6 мес);Standalone;0;0;441;439;239
+9;6;KION 05.22 (3 мес);Standalone;0;0;55;4;27
+12;5;KION 09.21;Standalone;0;0;20790;20160;8140
+5;2;KION 3.0. pc;Standalone;0;0;10695;9511;4839
+11;1;KION + Premium (6 мес);Standalone;0;0;311;311;178
+0;0;KION 05.22 (3 мес);Standalone;1;502;502;502;485
+11;8;KION 05.22 (3 мес);Standalone;0;0;96914;96914;35495
+14;1;KION 05.22 (3 мес);Standalone;0;0;243;243;146
+2;0;KION + Premium (6 мес);Standalone;0;0;1;1;0
+12;2;KION 05.22 (3 мес);Standalone;0;0;247;247;163
+13;9;KION + Premium (6 мес);Standalone;0;0;710;557;505
+2;2;KION 05.22 (3 мес);Standalone;1;854;854;850;814
+14;1;KION 09.21;Standalone;0;0;5989;5989;2417
+8;2;KION 3.0. pc;Standalone;0;0;4979;3814;2133
+6;6;KION 3.0. pc;Standalone;1;44484;44484;325;35354
+2;1;KION + Premium (6 мес);Standalone;0;0;510;510;406
+6;2;KION 09.21;Standalone;0;0;22474;22474;8952
+10;1;KION 3.0. pc;Standalone;0;0;1552;1472;681
+3;1;KION 09.21;Standalone;0;0;57524;42090;19166
+14;4;KION 3.0. pc;Standalone;0;0;1652;1443;697
+11;3;KION 3.0. pc;Standalone;0;0;2772;2513;987
+14;8;KION + Premium (6 мес);Standalone;0;0;3272;3139;2291
+6;2;KION + Premium (6 мес);Standalone;0;0;704;690;487
+14;3;KION + Premium (6 мес);Standalone;0;0;238;238;144
+10;5;KION 3.0. pc;Standalone;0;0;6311;6059;2737
+13;2;KION 05.22 (3 мес);Standalone;0;0;244;244;153
+7;7;KION + Premium (6 мес);Standalone;1;1896;1896;1783;1825
+10;10;KION + Premium (6 мес);Standalone;1;891;891;469;839
+5;4;KION 05.22 (3 мес);Standalone;0;0;4374;4312;3830
+10;3;KION 05.22 (3 мес);Standalone;0;0;743;743;486
+8;2;KION 09.21;Standalone;0;0;15174;15174;5834
+11;2;KION 05.22 (3 мес);Standalone;0;0;305;305;206
+10;2;KION 05.22 (3 мес);Standalone;0;0;308;308;203
+11;7;KION 05.22 (3 мес);Standalone;0;0;43434;43434;19390
+6;5;KION 09.21;Standalone;0;0;225655;179625;111684
+12;8;KION 09.21;Standalone;0;0;26956;26948;12751
+8;3;KION 05.22 (3 мес);Standalone;0;0;1061;1061;730
+11;9;KION 05.22 (3 мес);Standalone;0;0;10;10;5
+12;8;KION 05.22 (3 мес);Standalone;0;0;25480;25480;10171
+6;6;KION + Premium (6 мес);Standalone;1;915;915;774;896
+14;11;KION 09.21;Standalone;0;0;958;948;495
+8;2;KION + Premium (6 мес);Standalone;0;0;700;690;428
+2;0;KION 05.22 (3 мес);Standalone;0;0;457;457;329
+13;11;KION 3.0. pc;Standalone;0;0;1477;1395;688
+10;5;KION + Premium (6 мес);Standalone;0;0;664;547;425
+12;3;KION 09.21;Standalone;0;0;8703;8703;3288
+3;1;KION + Premium (6 мес);Standalone;0;0;507;507;397
+9;9;KION 09.21;Standalone;1;86304;86304;49883;74601
+12;1;KION 05.22 (3 мес);Standalone;0;0;297;297;185
+13;2;KION 09.21;Standalone;0;0;8523;8523;3358
+11;5;KION 05.22 (3 мес);Standalone;0;0;411;411;211
+8;8;KION 3.0. pc;Standalone;1;19605;19605;249;16489
+12;7;KION 3.0. pc;Standalone;0;0;1427;1422;507
+10;7;KION 05.22 (3 мес);Standalone;0;0;140270;140270;66660
+7;1;KION 3.0. pc;Standalone;0;0;2254;2173;990
+5;4;KION + Premium (6 мес);Standalone;0;0;695;554;579
+9;4;KION 3.0. pc;Standalone;0;0;3175;2963;1327
+8;7;KION 3.0. pc;Standalone;0;0;15204;3409;5850
+13;7;KION 09.21;Standalone;0;0;17727;17671;9847
+3;3;KION + Premium (6 мес);Standalone;1;430;430;387;412
+13;6;KION + Premium (6 мес);Standalone;0;0;456;456;333
+10;8;KION + Premium (6 мес);Standalone;0;0;3342;3196;2415
+9;2;KION 05.22 (3 мес);Standalone;0;0;309;309;212
+3;3;KION 3.0. pc;Standalone;1;50060;50060;255;43909
+0;0;KION 09.21;Standalone;1;1;1;0;1
+12;9;KION + Premium (6 мес);Standalone;0;0;712;559;502
+14;10;KION 3.0. pc;Standalone;0;0;985;975;441
+14;6;KION 09.21;Standalone;0;0;11974;11867;5197
+12;9;KION 05.22 (3 мес);Standalone;0;0;10;10;6
+8;5;KION + Premium (6 мес);Standalone;0;0;667;550;474
+13;0;KION 3.0. pc;Standalone;0;0;43;43;15
+3;2;KION 3.0. pc;Standalone;0;0;47091;7114;36754
+11;3;KION 05.22 (3 мес);Standalone;0;0;735;735;451
+11;0;KION 05.22 (3 мес);Standalone;0;0;144;144;88
+10;1;KION + Premium (6 мес);Standalone;0;0;311;311;168
+8;1;KION 05.22 (3 мес);Standalone;0;0;387;387;247
+9;5;KION 3.0. pc;Standalone;0;0;7820;7568;3509
+13;6;KION 3.0. pc;Standalone;0;0;3976;3928;1636
+4;4;KION 3.0. pc;Standalone;1;32666;32666;249;26930
+7;3;KION 3.0. pc;Standalone;0;0;5757;5495;2252
+13;7;KION + Premium (6 мес);Standalone;0;0;1833;1728;1338
+12;7;KION 09.21;Standalone;0;0;20588;20532;10814
+13;8;KION 09.21;Standalone;0;0;22610;22602;11866
+14;8;KION 05.22 (3 мес);Standalone;0;0;24801;24801;7589
+5;4;KION 09.21;Standalone;0;0;131795;80364;59388
+4;3;KION 3.0. pc;Standalone;0;0;49872;6483;27391
+9;4;KION 05.22 (3 мес);Standalone;0;0;2356;2356;1424
+13;3;KION 3.0. pc;Standalone;0;0;2172;1916;908
+3;2;KION + Premium (6 мес);Standalone;0;0;721;706;609
+14;6;KION 05.22 (3 мес);Standalone;0;0;11;11;2
+14;9;KION 09.21;Standalone;0;0;16487;16474;7143
+10;8;KION 3.0. pc;Standalone;0;0;5044;4940;2434
+7;2;KION 09.21;Standalone;0;0;18130;18130;7046
+12;5;KION + Premium (6 мес);Standalone;0;0;332;332;241
+13;7;KION 05.22 (3 мес);Standalone;0;0;42701;42701;14723
+14;5;KION 09.21;Standalone;0;0;17103;16475;7586
+11;7;KION 09.21;Standalone;0;0;26012;25951;13354
+14;7;KION 3.0. pc;Standalone;0;0;1115;1110;435
+10;9;KION 3.0. pc;Standalone;0;0;7004;2397;3857
+12;10;KION 05.22 (3 мес);Standalone;0;0;24;24;13
+11;10;KION 09.21;Standalone;0;0;553;427;229
+6;5;KION 05.22 (3 мес);Standalone;0;0;780;685;543
+12;2;KION + Premium (6 мес);Standalone;0;0;442;440;280
+10;4;KION + Premium (6 мес);Standalone;0;0;684;552;382
+9;0;KION 3.0. pc;Standalone;0;0;55;52;25
+13;10;KION 09.21;Standalone;0;0;182;177;96
+4;1;KION 09.21;Standalone;0;0;26604;26447;10650
+7;1;KION 05.22 (3 мес);Standalone;0;0;558;558;358
+10;10;KION 05.22 (3 мес);Standalone;1;29;29;29;21
+4;1;KION 05.22 (3 мес);Standalone;0;0;943;943;679
+7;3;KION + Premium (6 мес);Standalone;0;0;407;366;286
+6;4;KION 09.21;Standalone;0;0;64439;44404;21641
+10;7;KION 09.21;Standalone;0;0;43378;33196;21067
+11;10;KION 05.22 (3 мес);Standalone;0;0;26;26;17
+3;3;KION 05.22 (3 мес);Standalone;1;2050;2050;1963;1986
+10;6;KION 3.0. pc;Standalone;0;0;6549;6501;2732
+11;2;KION 3.0. pc;Standalone;0;0;3569;2415;1328
+13;4;KION 09.21;Standalone;0;0;9131;8523;3862
+6;2;KION 3.0. pc;Standalone;0;0;7445;6278;3403
+6;1;KION + Premium (6 мес);Standalone;0;0;499;499;347
+11;7;KION + Premium (6 мес);Standalone;0;0;1850;1736;1265
+0;0;KION + Premium (6 мес);Standalone;1;1;1;1;0
+13;6;KION 09.21;Standalone;0;0;13222;13115;5749
+4;1;KION 3.0. pc;Standalone;0;0;5020;4926;2544
+11;6;KION + Premium (6 мес);Standalone;0;0;895;755;563
+14;9;KION 05.22 (3 мес);Standalone;0;0;7;7;4
+10;6;KION + Premium (6 мес);Standalone;0;0;898;758;578
+11;11;KION 3.0. pc;Standalone;1;3315;3315;425;2560
+6;3;KION 05.22 (3 мес);Standalone;0;0;2004;1927;1275
+7;4;KION 05.22 (3 мес);Standalone;0;0;4300;4245;2766
+8;4;KION + Premium (6 мес);Standalone;0;0;687;546;442
+4;2;KION 3.0. pc;Standalone;0;0;30914;12362;15549
+9;6;KION + Premium (6 мес);Standalone;0;0;900;760;612
+3;2;KION 09.21;Standalone;0;0;142872;90634;55904
+1;0;KION 3.0. pc;Standalone;0;0;571;33;404
+11;2;KION 09.21;Standalone;0;0;10108;10108;3691
+10;0;KION 05.22 (3 мес);Standalone;0;0;147;147;96
+12;4;KION 05.22 (3 мес);Standalone;0;0;1593;1593;771
+11;8;KION 09.21;Standalone;0;0;35141;34957;16406
+13;7;KION 3.0. pc;Standalone;0;0;1258;1253;479
+12;4;KION 09.21;Standalone;0;0;10120;9510;4050
+12;9;KION 09.21;Standalone;0;0;23117;22997;9784
+5;3;KION 09.21;Standalone;0;0;62572;39958;21322
+9;7;KION 09.21;Standalone;0;0;69279;43847;35351
+12;1;KION 09.21;Standalone;0;0;7008;7008;2648
+2;1;KION 09.21;Standalone;0;0;106939;78011;52181
+5;0;KION + Premium (6 мес);Standalone;0;0;1;1;0
+13;9;KION 3.0. pc;Standalone;0;0;1081;1080;462
+10;1;KION 09.21;Standalone;0;0;8441;8441;3030
+13;11;KION + Premium (6 мес);Standalone;0;0;4550;4381;1448
+11;4;KION 05.22 (3 мес);Standalone;0;0;1607;1607;921
+8;4;KION 09.21;Standalone;0;0;19511;18899;8223
+10;5;KION 05.22 (3 мес);Standalone;0;0;411;411;247
+6;6;KION 05.22 (3 мес);Standalone;1;57;57;5;51
+14;11;KION 3.0. pc;Standalone;0;0;944;932;449
+8;8;KION + Premium (6 мес);Standalone;1;3387;3387;3240;3233
+10;2;KION 09.21;Standalone;0;0;11299;11299;4045
+8;4;KION 3.0. pc;Standalone;0;0;3913;3699;1658
+13;3;KION + Premium (6 мес);Standalone;0;0;237;237;157
+9;9;KION 3.0. pc;Standalone;1;7141;7141;355;5973
+6;4;KION 3.0. pc;Standalone;0;0;14521;7653;6635
+7;7;KION 3.0. pc;Standalone;1;15347;15347;180;12047
+7;6;KION 09.21;Standalone;0;0;142783;120256;63153
+12;11;KION + Premium (6 мес);Standalone;0;0;4678;4507;1834
+7;5;KION 05.22 (3 мес);Standalone;0;0;773;678;525
+8;6;KION 09.21;Standalone;0;0;58389;48378;25054
+6;0;KION 05.22 (3 мес);Standalone;0;0;274;274;169
+10;2;KION 3.0. pc;Standalone;0;0;3964;2805;1581
+5;5;KION 3.0. pc;Standalone;1;53612;53612;324;43804
+6;4;KION + Premium (6 мес);Standalone;0;0;690;549;515
+3;1;KION 3.0. pc;Standalone;0;0;11674;6220;6460
+10;9;KION 09.21;Standalone;0;0;83295;55505;31346
+8;8;KION 05.22 (3 мес);Standalone;1;98219;98219;98219;97117
+12;10;KION 3.0. pc;Standalone;0;0;1917;1829;933
+9;7;KION 3.0. pc;Standalone;0;0;3301;3236;1394
+11;5;KION 3.0. pc;Standalone;0;0;5345;5094;2156
+7;6;KION 3.0. pc;Standalone;0;0;44583;12929;21537
+7;5;KION 3.0. pc;Standalone;0;0;19188;14624;8486
+7;0;KION 3.0. pc;Standalone;0;0;67;64;26
+8;6;KION + Premium (6 мес);Standalone;0;0;901;761;671
+8;3;KION + Premium (6 мес);Standalone;0;0;407;366;262
+11;4;KION + Premium (6 мес);Standalone;0;0;336;336;192
+9;6;KION 3.0. pc;Standalone;0;0;8670;8614;3893
+14;6;KION 3.0. pc;Standalone;0;0;3479;3432;1526
+10;7;KION + Premium (6 мес);Standalone;0;0;1858;1744;1302
+8;5;KION 05.22 (3 мес);Standalone;0;0;746;660;483
+7;2;KION 3.0. pc;Standalone;0;0;5845;4678;2384
+14;2;KION + Premium (6 мес);Standalone;0;0;440;438;274
+14;4;KION 05.22 (3 мес);Standalone;0;0;1199;1199;576
+14;8;KION 3.0. pc;Standalone;0;0;1795;1792;779
+10;9;KION 05.22 (3 мес);Standalone;0;0;12;12;6
+4;3;KION 09.21;Standalone;0;0;112104;73201;46131
+2;1;KION 3.0. pc;Standalone;0;0;20736;3412;11685
+12;8;KION + Premium (6 мес);Standalone;0;0;3314;3168;2379
+11;9;KION 09.21;Standalone;0;0;38997;32709;15820
+12;10;KION 09.21;Standalone;0;0;265;231;129
+14;10;KION 09.21;Standalone;0;0;119;119;77
+4;4;KION + Premium (6 мес);Standalone;1;704;704;563;688
+5;4;KION 3.0. pc;Standalone;0;0;32341;5845;15989
+12;3;KION 3.0. pc;Standalone;0;0;2436;2179;887
+8;6;KION 05.22 (3 мес);Standalone;0;0;55;4;35
+1;1;KION + Premium (6 мес);Standalone;1;530;530;530;459
+14;0;KION 05.22 (3 мес);Standalone;0;0;117;117;56
+14;3;KION 05.22 (3 мес);Standalone;0;0;540;540;299
+9;7;KION + Premium (6 мес);Standalone;0;0;1863;1749;1374
+11;5;KION + Premium (6 мес);Standalone;0;0;662;549;423
+13;8;KION 05.22 (3 мес);Standalone;0;0;24853;24853;8268
+14;4;KION 09.21;Standalone;0;0;8382;7779;3551
+13;2;KION 3.0. pc;Standalone;0;0;3049;1900;1354
+13;2;KION + Premium (6 мес);Standalone;0;0;442;440;270
+4;0;KION + Premium (6 мес);Standalone;0;0;1;1;0
+9;3;KION 09.21;Standalone;0;0;12857;12857;4959
+5;1;KION 05.22 (3 мес);Standalone;0;0;569;569;409
+11;2;KION + Premium (6 мес);Standalone;0;0;442;440;263
+7;1;KION 09.21;Standalone;0;0;13300;13300;5140
+13;5;KION 3.0. pc;Standalone;0;0;4098;3847;1752
+7;2;KION + Premium (6 мес);Standalone;0;0;702;688;450
+6;2;KION 05.22 (3 мес);Standalone;0;0;475;475;312
+1;0;KION 05.22 (3 мес);Standalone;0;0;458;458;381
+5;1;KION 09.21;Standalone;0;0;19688;19688;8642
+14;7;KION + Premium (6 мес);Standalone;0;0;1035;1035;747
+13;0;KION 05.22 (3 мес);Standalone;0;0;119;119;63
+14;10;KION 05.22 (3 мес);Standalone;0;0;14;14;5
+14;7;KION 09.21;Standalone;0;0;15695;15645;8537
+14;2;KION 09.21;Standalone;0;0;7906;7906;3147
+11;1;KION 09.21;Standalone;0;0;7624;7624;2797
+7;4;KION 09.21;Standalone;0;0;27598;26635;11364
+5;1;KION + Premium (6 мес);Standalone;0;0;499;499;366
+10;3;KION 3.0. pc;Standalone;0;0;3192;2931;1213
+13;6;KION 05.22 (3 мес);Standalone;0;0;11;11;1
+9;5;KION 05.22 (3 мес);Standalone;0;0;409;409;255
+13;3;KION 05.22 (3 мес);Standalone;0;0;549;549;303
+12;7;KION 05.22 (3 мес);Standalone;0;0;42756;42756;16240
+7;5;KION + Premium (6 мес);Standalone;0;0;668;551;504
+13;11;KION 09.21;Standalone;0;0;2078;957;1208
+8;3;KION 3.0. pc;Standalone;0;0;4529;4267;1869
+14;9;KION + Premium (6 мес);Standalone;0;0;703;550;468
+10;5;KION 09.21;Standalone;0;0;27680;27048;10977
+10;0;KION 3.0. pc;Standalone;0;0;50;47;23
+8;4;KION 05.22 (3 мес);Standalone;0;0;2377;2377;1601
+6;1;KION 09.21;Standalone;0;0;15850;15850;6332
+8;2;KION 05.22 (3 мес);Standalone;0;0;453;453;310
+4;2;KION 05.22 (3 мес);Standalone;0;0;823;819;613
+3;3;KION 09.21;Standalone;1;112586;112586;67878;97506
+13;4;KION 3.0. pc;Standalone;0;0;1831;1620;733
+14;5;KION + Premium (6 мес);Standalone;0;0;319;319;223
+8;1;KION 3.0. pc;Standalone;0;0;1957;1876;873
+13;11;KION 05.22 (3 мес);Standalone;0;0;118;118;71
+7;5;KION 09.21;Standalone;0;0;103816;86646;40628
+7;4;KION + Premium (6 мес);Standalone;0;0;688;547;473
+5;2;KION 09.21;Standalone;0;0;31359;31078;13286
+11;9;KION 3.0. pc;Standalone;0;0;2325;2254;1054
+9;3;KION 3.0. pc;Standalone;0;0;3767;3506;1524
+4;2;KION + Premium (6 мес);Standalone;0;0;708;694;574
+12;1;KION + Premium (6 мес);Standalone;0;0;310;310;198
+12;6;KION 3.0. pc;Standalone;0;0;4573;4525;1811
+11;8;KION 3.0. pc;Standalone;0;0;3349;3342;1430
+12;5;KION 3.0. pc;Standalone;0;0;4656;4405;1859
+14;9;KION 3.0. pc;Standalone;0;0;889;888;386
+9;9;KION 05.22 (3 мес);Standalone;1;12;12;12;9
+12;11;KION 05.22 (3 мес);Standalone;0;0;122;122;97
+6;3;KION + Premium (6 мес);Standalone;0;0;414;372;303
+5;0;KION 3.0. pc;Standalone;0;0;89;86;42
+8;0;KION 3.0. pc;Standalone;0;0;57;54;26
+14;4;KION + Premium (6 мес);Standalone;0;0;330;330;205
+14;8;KION 09.21;Standalone;0;0;19700;19692;10192
+5;5;KION 05.22 (3 мес);Standalone;1;793;793;698;750
+12;3;KION 05.22 (3 мес);Standalone;0;0;733;733;415
+11;6;KION 05.22 (3 мес);Standalone;0;0;16;16;3
+11;7;KION 3.0. pc;Standalone;0;0;1684;1679;615
+11;6;KION 09.21;Standalone;0;0;17149;17022;7026
+7;0;KION 05.22 (3 мес);Standalone;0;0;183;183;117
+13;10;KION 3.0. pc;Standalone;0;0;1261;1248;597
+8;0;KION 05.22 (3 мес);Standalone;0;0;178;178;108
+1;1;KION 05.22 (3 мес);Standalone;1;975;975;975;950
+13;1;KION 09.21;Standalone;0;0;6419;6419;2572
+5;2;KION 05.22 (3 мес);Standalone;0;0;817;814;580
+7;3;KION 05.22 (3 мес);Standalone;0;0;1087;1087;743
+6;5;KION 3.0. pc;Standalone;0;0;53605;13654;29928
+3;2;KION 05.22 (3 мес);Standalone;0;0;826;822;675
+9;1;KION 05.22 (3 мес);Standalone;0;0;381;381;237
+10;6;KION 09.21;Standalone;0;0;21038;20911;8598
+8;3;KION 09.21;Standalone;0;0;15444;15444;6212
+13;5;KION + Premium (6 мес);Standalone;0;0;323;323;233
+8;1;KION 09.21;Standalone;0;0;11201;11201;4354
+12;8;KION 3.0. pc;Standalone;0;0;2541;2538;1031
+6;1;KION 3.0. pc;Standalone;0;0;2688;2606;1319
+3;0;KION + Premium (6 мес);Standalone;0;0;1;1;0
+4;2;KION 09.21;Standalone;0;0;75268;49351;22736
+13;1;KION 05.22 (3 мес);Standalone;0;0;293;293;172
+10;6;KION 05.22 (3 мес);Standalone;0;0;16;16;4
+4;4;KION 05.22 (3 мес);Standalone;1;4417;4417;4355;4344
+4;0;KION 3.0. pc;Standalone;0;0;123;120;60
+11;10;KION 3.0. pc;Standalone;0;0;5451;1796;2785
+2;0;KION 3.0. pc;Standalone;0;0;463;180;282
+13;1;KION 3.0. pc;Standalone;0;0;1136;1101;496
+12;0;KION 05.22 (3 мес);Standalone;0;0;143;143;81
+4;0;KION 05.22 (3 мес);Standalone;0;0;277;277;200
+6;6;KION 09.21;Standalone;1;144189;144189;117818;131361
+6;3;KION 09.21;Standalone;0;0;26234;26043;10609
+9;1;KION 09.21;Standalone;0;0;9590;9590;3589
+9;2;KION 09.21;Standalone;0;0;12932;12932;4795
+12;9;KION 3.0. pc;Standalone;0;0;1459;1453;611
+14;6;KION + Premium (6 мес);Standalone;0;0;445;445;322
+10;8;KION 09.21;Standalone;0;0;61753;56671;26831
+11;0;KION 3.0. pc;Standalone;0;0;50;47;21
+6;0;KION 3.0. pc;Standalone;0;0;73;70;39
+14;1;KION + Premium (6 мес);Standalone;0;0;218;218;135
+11;10;KION + Premium (6 мес);Standalone;0;0;886;466;686
+8;8;KION 09.21;Standalone;1;158791;158791;123754;143755
+3;0;KION 3.0. pc;Standalone;0;0;190;187;104
+6;1;KION 05.22 (3 мес);Standalone;0;0;562;562;349
+4;3;KION + Premium (6 мес);Standalone;0;0;418;375;374
+9;1;KION + Premium (6 мес);Standalone;0;0;312;312;167
+9;8;KION 3.0. pc;Standalone;0;0;19483;5157;11238
+5;3;KION 05.22 (3 мес);Standalone;0;0;2015;1928;1564
+10;7;KION 3.0. pc;Standalone;0;0;2182;2176;892
+8;5;KION 09.21;Standalone;0;0;50122;49120;22449
+13;4;KION 05.22 (3 мес);Standalone;0;0;1590;1590;731
+2;1;KION 05.22 (3 мес);Standalone;0;0;954;954;792
+13;5;KION 05.22 (3 мес);Standalone;0;0;278;278;132
+9;2;KION + Premium (6 мес);Standalone;0;0;453;451;272
+12;11;KION 09.21;Standalone;0;0;2144;570;1480
+13;8;KION + Premium (6 мес);Standalone;0;0;3308;3162;2349
+9;3;KION + Premium (6 мес);Standalone;0;0;407;372;244
+5;0;KION 05.22 (3 мес);Standalone;0;0;278;278;189
+9;4;KION 09.21;Standalone;0;0;15450;14841;6256
+14;2;KION 05.22 (3 мес);Standalone;0;0;243;243;146
+9;9;KION + Premium (6 мес);Standalone;1;741;741;585;692
+11;4;KION 3.0. pc;Standalone;0;0;2309;2097;871
+10;4;KION 3.0. pc;Standalone;0;0;2658;2446;1075
+1;0;KION 09.21;Standalone;0;0;1;0;0
+7;7;KION 05.22 (3 мес);Standalone;1;142514;142514;142514;133731
+14;1;KION 3.0. pc;Standalone;0;0;983;983;415
+10;4;KION 05.22 (3 мес);Standalone;0;0;2352;2352;1406
+10;8;KION 05.22 (3 мес);Standalone;0;0;97442;97442;48443
+6;0;KION + Premium (6 мес);Standalone;0;0;1;1;0
+14;3;KION 09.21;Standalone;0;0;7377;7377;2999
+8;6;KION 3.0. pc;Standalone;0;0;12806;12577;5862
+8;1;KION + Premium (6 мес);Standalone;0;0;320;320;186
+12;4;KION + Premium (6 мес);Standalone;0;0;329;329;207
+10;3;KION + Premium (6 мес);Standalone;0;0;238;238;145
+13;4;KION + Premium (6 мес);Standalone;0;0;330;330;212
+11;6;KION 3.0. pc;Standalone;0;0;5364;5316;2108
+11;8;KION + Premium (6 мес);Standalone;0;0;3329;3183;2346
+8;5;KION 3.0. pc;Standalone;0;0;10268;9987;4626
+5;3;KION + Premium (6 мес);Standalone;0;0;416;374;334
+9;8;KION + Premium (6 мес);Standalone;0;0;3358;3211;2674
+7;7;KION 09.21;Standalone;1;133273;133273;91562;118199
+14;7;KION 05.22 (3 мес);Standalone;0;0;25064;25064;9306
+12;2;KION 3.0. pc;Standalone;0;0;3276;2126;1211
+1;0;KION + Premium (6 мес);Standalone;0;0;1;1;0
+11;11;KION 05.22 (3 мес);Standalone;1;126;126;126;107
+7;3;KION 09.21;Standalone;0;0;19213;19213;7682
+13;9;KION 09.21;Standalone;0;0;18730;18717;8400
+14;2;KION 3.0. pc;Standalone;0;0;2841;2348;1297
+9;8;KION 05.22 (3 мес);Standalone;0;0;97734;97734;65015
+7;4;KION 3.0. pc;Standalone;0;0;5609;5390;2309
+12;2;KION 09.21;Standalone;0;0;9170;9170;3481
+9;3;KION 05.22 (3 мес);Standalone;0;0;1059;1059;678
+12;6;KION 05.22 (3 мес);Standalone;0;0;15;15;4
+13;5;KION 09.21;Standalone;0;0;18758;18128;8199
+2;2;KION + Premium (6 мес);Standalone;1;730;730;715;614
+11;1;KION 05.22 (3 мес);Standalone;0;0;304;304;187
+12;4;KION 3.0. pc;Standalone;0;0;2045;1834;785
+9;4;KION + Premium (6 мес);Standalone;0;0;685;545;389
+10;10;KION 09.21;Standalone;1;545;545;408;408
+9;6;KION 09.21;Standalone;0;0;30020;29748;12908
+14;5;KION 05.22 (3 мес);Standalone;0;0;276;276;127
+13;1;KION + Premium (6 мес);Standalone;0;0;309;309;206
+12;11;KION 3.0. pc;Standalone;0;0;3259;1500;1761
+7;6;KION + Premium (6 мес);Standalone;0;0;904;764;752
+11;3;KION + Premium (6 мес);Standalone;0;0;237;237;152
+13;8;KION 3.0. pc;Standalone;0;0;2107;2104;905
+7;1;KION + Premium (6 мес);Standalone;0;0;496;496;317
+9;1;KION 3.0. pc;Standalone;0;0;1755;1675;775
+12;7;KION + Premium (6 мес);Standalone;0;0;1846;1732;1290
+11;5;KION 09.21;Standalone;0;0;23596;22963;9223
+14;0;KION 3.0. pc;Standalone;0;0;35;35;16
+10;1;KION 05.22 (3 мес);Standalone;0;0;379;379;245
+14;11;KION 05.22 (3 мес);Standalone;0;0;116;116;64
+5;5;KION 09.21;Standalone;1;230066;230066;174086;211642
+9;0;KION 05.22 (3 мес);Standalone;0;0;178;178;112
+7;2;KION 05.22 (3 мес);Standalone;0;0;471;471;313
+8;7;KION 05.22 (3 мес);Standalone;0;0;141707;141707;108676
+12;1;KION 3.0. pc;Standalone;0;0;1247;1168;520
+14;11;KION + Premium (6 мес);Standalone;0;0;4500;4330;1271
+0;0;KION 3.0. pc;Standalone;1;379;379;3;283
+11;1;KION 3.0. pc;Standalone;0;0;1377;1297;547
+9;2;KION 3.0. pc;Standalone;0;0;4432;3271;1864
+12;5;KION 05.22 (3 мес);Standalone;0;0;282;282;145
+11;3;KION 09.21;Standalone;0;0;9757;9757;3530
