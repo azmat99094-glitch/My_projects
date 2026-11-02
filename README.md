@@ -20,7 +20,7 @@ This repository contains my data analysis projects focusing on **product analyti
 - **Key Results**: Transactional EDA with DuckDB, data quality framework (detected 30% zero-price items), automated API pipeline (auth → log request → download → Excel report).
 - **Technologies**: Python, Pandas, DuckDB, Requests, OpenPyXL, Yandex.Metrica Logs API.
 
-### 4. [KION Subscription Base Analysis](kion-subscription-analysis)
+### 4. [KION Subscription Base Analysis](kion_subscription_analysis)
 - **Description**: Comprehensive cohort analysis, retention tracking, and 24-month forecasting for a major video streaming service. Successfully defended at the final interview stage.
 - **Key Tasks Solved**: Data quality assessment, cohort retention calculation (months 0-14), trend analysis (growth vs. decline phases), and 24-month scenario-based forecasting.
 - **Key Business Insights**: Identified critical churn points (months 3-4, 10-11), revealed 43% viewing activity among 98% paying users ("sleeping" subscribers), and built a decay-rate projection model.
@@ -83,7 +83,7 @@ I am a Data/Product Analyst with **4+ years of domain experience in the Banking 
 - **Ключевые результаты**: EDA транзакционных данных через DuckDB, фреймворк качества данных (обнаружены 30% товаров с нулевой ценой), автоматизированный API-пайплайн (авторизация → запрос логов → скачивание → генерация Excel-отчета).
 - **Технологии**: Python, Pandas, DuckDB, Requests, OpenPyXL, Яндекс.Метрика Logs API.
 
-### 4. [Анализ и прогнозирование подписочной базы KION](kion-subscription-analysis)
+### 4. [Анализ и прогнозирование подписочной базы KION](kion_subscription_analysis)
 - **Описание**: Комплексный когортный анализ, трекинг удержания и прогнозирование на 24 месяца для крупного видеосервиса. Успешно защищен на финальном этапе собеседования.
 - **Решенные задачи**: Оценка качества данных, расчет Retention Rate для когорт (0-14 мес.), анализ трендов (фазы роста и спада), построение сценарной модели прогноза.
 - **Ключевые инсайты**: Выявлены критические точки оттока (3-4 и 10-11 мес.), обнаружено падение вовлеченности до 43% при 98% оплат ("спящие" подписчики), построена модель прогноза на основе темпов распада когорт.
