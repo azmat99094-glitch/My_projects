@@ -1,0 +1,21 @@
+eventLabel,date,source,medium,campaign,pagePath
+debit_card_trackad_form_ST4_37224908,20210516,yandex.ru,referral,(not set),/ru/person/bank_cards/debit/sberkarta_young
+debit_card_trackad_form_ST4_29477110,20210516,google,organic,(not set),/ru/person/bank_cards/debit/sberkarta_young
+debit_card_trackad_form_ST4_44020580,20210516,Admitad,cpa,bank_cards.debit.sberkarta_god_person_20210100033_cpa_1242061,/ru/person/bank_cards/debit/sberkarta/pension-card/orderpensioncard_mir
+debit_card_trackad_form_ST4_44020596,20210516,Admitad,cpa,bank_cards.debit.sberkarta_god_person_20210100033_cpa_1242061,/ru/person/bank_cards/debit/sberkarta/pension-card/orderpensioncard_mir
+debit_card_trackad_form_ST4_44020610,20210516,Admitad,cpa,bank_cards.debit.sberkarta_god_person_20210100033_cpa_1242061,/ru/person/bank_cards/debit/sberkarta/pension-card/orderpensioncard_mir
+debit_card_trackad_form_ST4_34396727,20210516,google,cpc,debit_youth-card_god_person_20210100031_context_search_brand_rus_mob_yxprdbc|11965171861,/ru/person/bank_cards/debit/sberkarta_young
+debit_card_trackad_form_ST4_30860571,20210516,(direct),(none),(not set),/ru/person/bank_cards/debit/sberkarta_young
+debit_card_trackad_form_ST4_29476059,20210517,google,cpc,debit_sberkarta_god_person_20210100033_context_search_brand_rus_mob_yxprdbc|11965172617,/ru/person/bank_cards/debit/sberkarta_mc
+debit_card_trackad_form_ST4_37225680,20210517,yandex.ru,referral,(not set),/ru/person/bank_cards/debit/sberkarta/design
+debit_card_trackad_form_ST4_34396864,20210517,yandex.ru,referral,(not set),/ru/person/bank_cards/debit/sberkarta/design
+debit_card_trackad_form_ST4_44017624,20210517,google,organic,(not set),/ru/person/bank_cards/debit/sberkarta
+debit_card_trackad_form_ST4_37154888,20210517,vbr.ru,cpa,bank_cards.debit.youth-card_god_person_20210100031_cpa,/ru/person/bank_cards/debit/gold-pg/ordergivelive_gold
+debit_card_trackad_form_ST4_34397397,20210517,google,organic,(not set),/ru/person/bank_cards/debit/sberkarta_young
+debit_card_trackad_form_ST4_32928651,20210518,google,cpc,debit_youth-card_god_person_20210100031_context_search_brand_rus_mob_yxprdbc|11965171861,/ru/person/bank_cards/debit/sberkarta_young
+debit_card_trackad_form_ST4_37226505,20210518,google,cpc,debit_youth-card_god_person_20210100031_context_search_brand_rus_mob_yxprdbc|11965171861,/ru/person/bank_cards/debit/sberkarta_young
+debit_card_trackad_form_ST4_32928220,20210518,(direct),(none),(not set),/ru/person/bank_cards/debit/sberkarta
+debit_card_trackad_form_ST4_37589823,20210518,google,organic,(not set),/ru/person/bank_cards/debit/card_classic/orderclassiccardmir
+debit_card_trackad_form_ST4_14962481,20210518,(direct),(none),(not set),/ru/person/bank_cards/debit/sberkarta
+debit_card_trackad_form_ST4_32929508,20210518,(direct),(none),(not set),/ru/person/bank_cards/debit/sberkarta_young
+debit_card_trackad_form_ST4_37588893,20210518,(direct),(none),(not set),/ru/person/bank_cards/debit/sberkarta
