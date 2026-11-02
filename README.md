@@ -21,26 +21,42 @@ This repository contains my data analysis projects for **product analytics** and
   - Support for product experiments (e.g., promoting cashless payments)
 - **Technologies**: Apache Spark, Airflow, ClickHouse, S3
 
+### 3. [E-commerce Analytics & Yandex.Metrica API](ecommerce-api-analytics)
+- **Description**: Full-cycle e-commerce data analysis + automated Yandex.Metrica Logs API integration
+- **Key Results**:
+  - Transactional EDA with DuckDB: identified top-performing traffic sources (`direct`: 5803₽ avg check)
+  - Data Quality framework: detected 30% zero-price items and incomplete dumps, proposed validation rules
+  - Automated API pipeline: auth → log request → processing wait → download → Excel report generation
+  - Business recommendations: RFM segmentation, funnel depth analysis, automated alerting system
+- **Technologies**: Python, Pandas, DuckDB, Requests, OpenPyXL, Yandex.Metrica Logs API
+
 ## 📂 Repository Structure
 ```
 my_projects/
 ├── yandex_books_analysis/
-│   ├── data/
-│   ├── notebook/
-│   └── README.md
+│ ├── data/
+│ ├── notebook/
+│ └── README.md
 ├── yandex-taxi-payment-analysis/
-│   └── notebook
+│ └── notebook/
+│ └── README.md
+├── ecommerce-api-analytics/
+│ ├── purchases.csv
+│ ├── products.csv
+│ ├── Part_1_Data_Analysis.ipynb
+│ ├── Part_2_API_Report.ipynb
+│ └── README.md
 └── README.md
 ```
 
 ## 🛠️ How to Use
 1. Clone the repository: `git clone https://github.com/yourusername/my_projects.git`
-2. Navigate to project directory: `cd my_projects/yandex_books_analysis`
-3. Install dependencies: `pip install -r requirements.txt`
-4. Run Jupyter notebook: `jupyter notebook notebooks/hypothesis_testing.ipynb`
+2. Navigate to project directory: `cd my_projects/<project-name>`
+3. Install dependencies: `pip install -r requirements.txt` (if available) or see project README
+4. Run Jupyter notebooks as described in each project's documentation
 
 ## 🌟 About Me
-I am a Data/Product Analyst with **4+ years of domain experience in the Banking and Finance sector**.
+I am a Data/Product Analyst with **4+ years of domain experience in the Banking and Finance sector**. I specialize in turning complex data into actionable business decisions through A/B testing, funnel optimization, and unit economics. Currently deepening expertise in advanced experimentation methods (CUPED, stratification) and causal inference.
 
 ---
 
@@ -67,23 +83,40 @@ I am a Data/Product Analyst with **4+ years of domain experience in the Banking 
   - Поддержка продуктовых экспериментов (например, продвижение бесконтактных платежей)
 - **Технологии**: Apache Spark, Airflow, ClickHouse, S3
 
+### 3. [Аналитика e-commerce и API Яндекс.Метрики](ecommerce-api-analytics)
+- **Описание**: Полный цикл анализа e-commerce данных + автоматизация API Яндекс.Метрики Logs API
+- **Ключевые результаты**:
+  - EDA транзакционных данных через DuckDB: определены топ-источники трафика (`direct`: ср. чек 5803₽)
+  - Фреймворк качества данных: обнаружены 30% товаров с нулевой ценой и неполные выгрузки, предложены правила валидации
+  - Автоматизированный API-пайплайн: авторизация → запрос логов → ожидание обработки → скачивание → генерация Excel-отчета
+  - Бизнес-рекомендации: RFM-сегментация, анализ глубины воронки, система автоматического алертинга
+- **Технологии**: Python, Pandas, DuckDB, Requests, OpenPyXL, Яндекс.Метрика Logs API
+
 ## 📂 Структура репозитория
 ```
 my_projects/
 ├── yandex_books_analysis/
-│   ├── data/
-│   ├── notebook/
-│   └── README.md
+│ ├── data/
+│ ├── notebook/
+│ └── README.md
 ├── yandex-taxi-payment-analysis/
-│   └── notebook
+│ └── notebook/
+│ └── README.md
+├── ecommerce-api-analytics/
+│ ├── purchases.csv
+│ ├── products.csv
+│ ├── Part_1_Data_Analysis.ipynb
+│ ├── Part_2_API_Report.ipynb
+│ └── README.md
 └── README.md
 ```
 
 ## 🛠️ Как использовать
 1. Клонируйте репозиторий: `git clone https://github.com/yourusername/my_projects.git`
-2. Перейдите в директорию проекта: `cd my_projects/yandex_books_analysis`
-3. Установите зависимости: `pip install -r requirements.txt`
-4. Запустите Jupyter-ноутбук: `jupyter notebook notebooks/hypothesis_testing.ipynb`
+2. Перейдите в директорию проекта: `cd my_projects/<имя-проекта>`
+3. Установите зависимости: `pip install -r requirements.txt` (если есть) или см. README проекта
+4. Запустите Jupyter-ноутбуки согласно документации каждого проекта
 
 ## 🌟 Обо мне
-Я - аналитик данных с **4+ годами предметного опыта в банковском и финансовом секторе**.
+Я — аналитик данных с **4+ годами предметного опыта в банковском и финансовом секторе**. Специализируюсь на превращении сложных данных в конкретные бизнес-решения через A/B-тестирование, оптимизацию воронок и юнит-экономику. Сейчас углубляю экспертизу в продвинутых методах экспериментов (CUPED, стратификация) и причинно-следственном анализе.
+
