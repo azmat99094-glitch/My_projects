@@ -40,7 +40,7 @@ my_projects/
 4. Run Jupyter notebook: `jupyter notebook notebooks/hypothesis_testing.ipynb`
 
 ## 🌟 About Me
-I'm a **Product Analyst** with 4+ years of experience in banking analytics, specializing in A/B testing, funnel optimization, and unit economics. I help businesses grow by turning data into actionable insights.
+I am a Data/Product Analyst with **4+ years of domain experience in the Banking and Finance sector**.
 
 ---
 
@@ -86,4 +86,4 @@ my_projects/
 4. Запустите Jupyter-ноутбук: `jupyter notebook notebooks/hypothesis_testing.ipynb`
 
 ## 🌟 Обо мне
-Я - **Продуктовый аналитик** с 4+ годами опыта в банковской аналитике, специализируюсь на A/B-тестировании, оптимизации воронок и юнит-экономике. Помогаю бизнесу расти, превращая данные в действия, которые дают реальный бизнес-эффект.
+Я - аналитик данных с **4+ годами предметного опыта в банковском и финансовом секторе**.
